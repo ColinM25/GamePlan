@@ -1,0 +1,276 @@
+Team,Flight,Price,Departure Time,Arrival Time
+MIN,Delta,06:15 AM,07:25 AM,898
+MIN,DeltaOperated by SkyWest DBA Delta Connection,10:55 AM,12:11 PM,898
+MIN,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,03:58 PM,898
+MIN,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,06:26 PM,898
+MIN,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,07:23 PM,996
+MIN,UnitedOperated by Republic Airways DBA United Express,05:23 PM,09:55 PM,996
+MIN,"AmericanOperated by Piedmont Airlines as American Eagle, Republic Airways as American Eagle",10:25 AM,02:20 PM,1194
+MIN,UnitedOperated by Republic Airways DBA United Express,06:10 AM,10:40 AM,1244
+CHI,UnitedOperated by Republic Airways DBA United Express,05:00 AM,06:13 AM,853
+CHI,United,06:10 AM,07:23 AM,853
+CHI,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,11:36 AM,853
+CHI,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,04:05 PM,853
+CHI,UnitedOperated by Republic Airways DBA United Express,05:23 PM,06:35 PM,853
+CHI,UnitedOperated by Republic Airways DBA United Express,08:10 AM,09:23 AM,892
+CHI,UnitedOperated by Republic Airways DBA United Express,03:55 PM,05:07 PM,1116
+CHI,UnitedOperated by Republic Airways DBA United Express,06:16 AM,06:42 PM,1509
+CHI,United,02:45 PM,09:32 PM,2014
+GB,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",03:55 PM,07:00 PM,2086
+GB,"UnitedOperated by Republic Airways DBA United Express, Gojet Airlines DBA United Express",05:23 PM,08:52 PM,2086
+GB,"AmericanOperated by Piedmont Airlines as American Eagle, Air Wisconsin as American Eagle",10:25 AM,04:44 PM,2325
+GB,AmericanOperated by Air Wisconsin as American Eagle,06:44 AM,04:44 PM,2286
+GB,"AmericanOperated by Piedmont Airlines as American Eagle, Air Wisconsin as American Eagle",02:54 PM,09:52 PM,2325
+DET,Delta,07:00 AM,09:19 AM,1098
+DET,DeltaOperated by Endeavor Air DBA Delta Connection,10:40 AM,01:01 PM,1098
+DET,DeltaOperated by Republic Airways Delta Connection,05:04 PM,07:31 PM,1296
+DET,"AmericanOperated by Piedmont Airlines as American Eagle, Envoy Air as American Eagle",10:25 AM,05:09 PM,1136
+DET,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:23 PM,10:15 PM,1136
+DET,"AmericanOperated by Piedmont Airlines as American Eagle, SkyWest Airlines as American Eagle",02:54 PM,08:43 PM,1236
+DET,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",03:55 PM,08:24 PM,1237
+IND,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:23 PM,09:58 PM,589
+IND,"DeltaOperated by Endeavor Air DBA Delta Connection, Republic Airways Delta Connection",10:40 AM,05:18 PM,846
+IND,"AmericanOperated by Piedmont Airlines as American Eagle, Republic Airways as American Eagle",02:54 PM,07:55 PM,877
+IND,UnitedOperated by Republic Airways DBA United Express,06:16 AM,01:50 PM,807
+IND,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",08:10 AM,03:09 PM,807
+IND,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:32 PM,846
+IND,"AmericanOperated by Piedmont Airlines as American Eagle, Piedmont Airlines as American Eagle",10:25 AM,02:29 PM,980
+IND,DeltaOperated by Republic Airways Delta Connection,07:00 AM,11:19 AM,1066
+IND,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:00 AM,09:28 AM,1249
+JAX,American,06:44 AM,01:26 PM,747
+JAX,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,11:48 AM,766
+JAX,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,11:56 PM,766
+JAX,"AmericanOperated by Piedmont Airlines as American Eagle, Envoy Air as American Eagle",02:54 PM,10:41 PM,747
+JAX,United,06:16 AM,02:39 PM,803
+JAX,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,12:33 AM +1,806
+JAX,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:58 PM,834
+JAX,AmericanOperated by PSA Airlines as American Eagle,10:53 AM,05:14 PM,977
+JAX,Delta,11:17 AM,04:23 PM,1036
+TEN,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:27 PM,656
+TEN,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:00 AM,09:22 AM,703
+TEN,UnitedOperated by SkyWest DBA United Express,06:10 AM,12:24 PM,703
+TEN,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:00 PM,703
+TEN,"AmericanOperated by Piedmont Airlines as American Eagle, Republic Airways as American Eagle",02:54 PM,07:38 PM,756
+TEN,Delta,07:00 AM,01:43 PM,826
+TEN,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",08:10 AM,12:24 PM,927
+TEN,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,10:06 AM,986
+TEN,Delta,11:17 AM,03:32 PM,1076
+TEN,"AmericanOperated by PSA Airlines as American Eagle, PSA Airlines as American Eagle",10:53 AM,03:23 PM,1126
+TEN,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",03:55 PM,07:44 PM,1290
+NE,United,06:16 AM,12:11 PM,1220
+NE,Delta,07:00 AM,12:32 PM,1356
+NE,DeltaOperated by Endeavor Air DBA Delta Connection,10:40 AM,04:25 PM,1356
+NE,"AmericanOperated by Piedmont Airlines as American Eagle, Republic Airways as American Eagle",10:25 AM,04:55 PM,1456
+NE,UnitedOperated by Republic Airways DBA United Express,05:00 AM,11:12 AM,1310
+NE,American,06:44 AM,10:48 PM,1326
+NE,DeltaOperated by Republic Airways Delta Connection,05:04 PM,11:51 PM,1356
+NE,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:59 PM,1356
+NE,"AmericanOperated by Piedmont Airlines as American Eagle, Republic Airways as American Eagle",04:55 PM,10:46 PM,1456
+BUF,UnitedOperated by Gojet Airlines DBA United Express,06:16 AM,02:03 PM,566
+BUF,"AmericanOperated by Piedmont Airlines as American Eagle, Envoy Air as American Eagle",02:54 PM,09:44 PM,686
+BUF,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,12:40 AM +1,826
+BUF,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,12:39 AM +1,786
+BUF,DeltaOperated by SkyWest DBA Delta Connection,07:00 AM,11:15 AM,966
+BUF,"DeltaOperated by Endeavor Air DBA Delta Connection, Endeavor Air DBA Delta Connection",10:40 AM,05:09 PM,966
+BUF,DeltaOperated by Republic Airways Delta Connection,05:04 PM,11:03 PM,966
+BUF,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:01 PM,1006
+BUF,"AmericanOperated by Piedmont Airlines as American Eagle, Piedmont Airlines as American Eagle",04:55 PM,11:05 PM,1116
+MIA,United,06:16 AM,02:40 PM,967
+MIA,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,12:54 AM +1,1020
+MIA,UnitedOperated by Republic Airways DBA United Express,05:00 AM,11:46 AM,1054
+MIA,UnitedOperated by Republic Airways DBA United Express,03:55 PM,10:59 PM,1077
+MIA,AmericanOperated by Piedmont Airlines as American Eagle,04:55 PM,11:59 PM,1142
+MIA,UnitedOperated by Republic Airways DBA United Express,08:10 AM,03:01 PM,1185
+MIA,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,11:44 AM,1210
+MIA,DeltaOperated by Republic Airways Delta Connection,05:04 PM,11:51 PM,1210
+MIA,American,06:44 AM,01:10 PM,1718
+NYJ,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,07:57 PM,1313
+NYJ,"DeltaOperated by Republic Airways Delta Connection, Endeavor Air DBA Delta Connection",05:04 PM,10:45 PM,1336
+NYJ,DeltaOperated by Endeavor Air DBA Delta Connection,07:00 AM,12:05 PM,1534
+NYJ,American,06:44 AM,08:00 PM,1118
+NYJ,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:49 PM,1436
+NYJ,AmericanOperated by PSA Airlines as American Eagle,10:53 AM,06:08 PM,1493
+NYJ,"DeltaOperated by Endeavor Air DBA Delta Connection, Endeavor Air DBA Delta Connection",10:40 AM,06:00 PM,1534
+NYJ,DeltaOperated by SkyWest DBA Delta Connection,10:55 AM,04:55 PM,1596
+BAL,UnitedOperated by Republic Airways DBA United Express,05:23 PM,11:09 PM,635
+BAL,Delta,07:00 AM,11:44 AM,826
+BAL,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:55 PM,826
+BAL,American,06:44 AM,12:27 PM,937
+BAL,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,12:38 AM +1,966
+BAL,DeltaOperated by Endeavor Air DBA Delta Connection,10:40 AM,04:52 PM,1026
+BAL,UnitedOperated by Republic Airways DBA United Express,08:10 AM,01:36 PM,1217
+CIN,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:00 AM,09:40 AM,856
+CIN,"AmericanOperated by Piedmont Airlines as American Eagle, PSA Airlines as American Eagle",04:55 PM,11:07 PM,856
+CIN,DeltaOperated by Republic Airways Delta Connection,05:04 PM,10:54 PM,934
+CIN,UnitedOperated by Republic Airways DBA United Express,05:23 PM,11:46 PM,856
+CIN,"DeltaOperated by Endeavor Air DBA Delta Connection, Endeavor Air DBA Delta Connection",10:40 AM,05:07 PM,934
+CIN,AmericanOperated by PSA Airlines as American Eagle,06:44 AM,02:50 PM,1006
+CIN,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,11:50 PM,1006
+CIN,"UnitedOperated by Republic Airways DBA United Express, Gojet Airlines DBA United Express",08:10 AM,01:06 PM,1070
+CIN,"AmericanOperated by PSA Airlines as American Eagle, PSA Airlines as American Eagle",10:53 AM,04:31 PM,1146
+CIN,"DeltaOperated by SkyWest DBA Delta Connection, Endeavor Air DBA Delta Connection",10:55 AM,04:05 PM,1416
+CLE,UnitedOperated by Republic Airways DBA United Express,05:23 PM,11:39 PM,595
+CLE,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",05:00 AM,09:53 AM,601
+CLE,"DeltaOperated by Endeavor Air DBA Delta Connection, Endeavor Air DBA Delta Connection",05:06 PM,12:06 AM +1,736
+CLE,UnitedOperated by SkyWest DBA United Express,06:10 AM,01:18 PM,817
+CLE,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,12:44 AM +1,817
+CLE,UnitedOperated by Gojet Airlines DBA United Express,06:16 AM,12:36 PM,839
+CLE,"DeltaOperated by Endeavor Air DBA Delta Connection, SkyWest DBA Delta Connection",10:40 AM,05:04 PM,1006
+CLE,"DeltaOperated by Republic Airways Delta Connection, SkyWest DBA Delta Connection",05:04 PM,10:35 PM,1006
+CLE,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",08:10 AM,01:18 PM,1154
+CLE,UnitedOperated by Republic Airways DBA United Express,03:55 PM,08:27 PM,1154
+CLE,"AmericanOperated by Piedmont Airlines as American Eagle, Piedmont Airlines as American Eagle",04:55 PM,11:15 PM,1316
+PIT,UnitedOperated by Republic Airways DBA United Express,06:16 AM,01:08 PM,596
+PIT,"AmericanOperated by Piedmont Airlines as American Eagle, Republic Airways as American Eagle",02:54 PM,09:42 PM,656
+PIT,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:00 AM,10:13 AM,672
+PIT,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:23 PM,11:41 PM,672
+PIT,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,12:30 AM +1,776
+PIT,"DeltaOperated by Endeavor Air DBA Delta Connection, Republic Airways Delta Connection",10:40 AM,05:22 PM,946
+PIT,"DeltaOperated by Republic Airways Delta Connection, Republic Airways Delta Connection",05:04 PM,10:38 PM,1066
+PIT,"AmericanOperated by Piedmont Airlines as American Eagle, PSA Airlines as American Eagle",04:55 PM,10:37 PM,1284
+HOU,UnitedOperated by Republic Airways DBA United Express,05:23 PM,11:00 PM,717
+HOU,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:08 PM,958
+HOU,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,08:46 PM,1056
+HOU,UnitedOperated by Republic Airways DBA United Express,05:00 AM,10:23 AM,1124
+HOU,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:41 PM,1126
+HOU,American,04:05 PM,09:11 PM,1256
+HOU,DeltaOperated by SkyWest DBA Delta Connection,10:55 AM,04:00 PM,1466
+KC,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",05:00 AM,09:13 AM,590
+KC,UnitedOperated by Republic Airways DBA United Express,05:23 PM,09:50 PM,590
+KC,"DeltaOperated by SkyWest DBA Delta Connection, SkyWest DBA Delta Connection",10:55 AM,03:06 PM,916
+KC,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:10 PM,736
+KC,American,06:21 AM,12:39 PM,1006
+KC,American,04:05 PM,09:22 PM,1006
+KC,DeltaOperated by Republic Airways Delta Connection,05:04 PM,09:57 PM,1006
+KC,"UnitedOperated by Republic Airways DBA United Express, SkyWest DBA United Express",03:55 PM,07:50 PM,1154
+LV,United,06:10 AM,10:51 AM,696
+LV,Delta,06:15 AM,12:31 PM,696
+LV,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,07:45 PM,747
+LV,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,08:08 PM,696
+LV,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:42 PM,696
+LV,UnitedOperated by Republic Airways DBA United Express,05:00 AM,09:36 AM,722
+LV,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:04 PM,722
+LV,UnitedOperated by Republic Airways DBA United Express,08:10 AM,01:03 PM,788
+LV,United,08:21 AM,12:29 PM,941
+LV,DeltaOperated by SkyWest DBA Delta Connection,10:55 AM,02:30 PM,996
+LV,American,07:32 AM,11:53 AM,1226
+LV,"American, AlaskaOperated by Piedmont Airlines as American Eagle",10:25 AM,08:32 PM,1596
+LV,"American, AlaskaOperated by Piedmont Airlines as American Eagle",10:25 AM,07:13 PM,3554
+LAC,UnitedOperated by Republic Airways DBA United Express,05:00 AM,09:53 AM,1413
+LAC,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,09:05 PM,1472
+LAC,American,07:32 AM,11:53 AM,1632
+LAC,United,06:10 AM,04:21 PM,1014
+LAC,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,08:17 AM +1,1075
+LAC,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,09:05 PM,1374
+LAC,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:53 PM,1413
+LAC,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:09 PM,1456
+LAC,United,06:10 AM,11:34 AM,1482
+LAC,Delta,06:15 AM,11:00 AM,1572
+LAC,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,03:17 PM,1632
+LAC,United,08:21 AM,01:03 PM,1958
+LAR,UnitedOperated by Republic Airways DBA United Express,05:00 AM,09:53 AM,1413
+LAR,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,09:05 PM,1472
+LAR,American,07:32 AM,11:53 AM,1632
+LAR,United,06:10 AM,04:21 PM,1014
+LAR,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,08:17 AM +1,1075
+LAR,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,09:05 PM,1374
+LAR,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:53 PM,1413
+LAR,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:09 PM,1456
+LAR,United,06:10 AM,11:34 AM,1482
+LAR,Delta,06:15 AM,11:00 AM,1572
+LAR,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,03:17 PM,1632
+LAR,United,08:21 AM,01:03 PM,1958
+ARI,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,09:15 PM,656
+ARI,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,08:09 PM,859
+ARI,American,07:32 AM,10:14 AM,1442
+ARI,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,12:37 AM +1,748
+ARI,UnitedOperated by Republic Airways DBA United Express,05:00 AM,10:31 AM,892
+ARI,United,06:10 AM,12:17 PM,892
+ARI,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:50 PM,892
+ARI,UnitedOperated by Republic Airways DBA United Express,08:10 AM,02:15 PM,933
+ARI,United,08:21 AM,01:27 PM,1067
+ARI,Delta,06:15 AM,12:05 PM,1106
+SF,UnitedOperated by Republic Airways DBA United Express,05:23 PM,12:56 AM +1,897
+SF,UnitedOperated by Republic Airways DBA United Express,05:23 PM,11:08 PM,947
+SF,Delta,06:15 AM,11:32 AM,1246
+SF,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:50 PM,1246
+SF,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,09:14 PM,1446
+SF,DeltaOperated by Republic Airways Delta Connection,05:04 PM,11:00 PM,1446
+SF,United,06:10 AM,11:40 AM,1516
+SF,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:20 PM,1516
+SF,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,12:39 AM +1,1609
+SF,American,07:32 AM,12:31 PM,1856
+SF,United,02:45 PM,07:40 PM,2087
+ATL,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,09:05 AM,1178
+ATL,Delta,11:17 AM,02:29 PM,1178
+ATL,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,09:19 PM,1178
+ATL,American,04:05 PM,12:04 AM +1,1216
+ATL,Delta,07:00 AM,12:19 PM,1277
+ATL,United,06:16 AM,11:46 PM,1143
+ATL,"AmericanOperated by PSA Airlines as American Eagle, PSA Airlines as American Eagle",10:53 AM,05:33 PM,1316
+ATL,UnitedOperated by Republic Airways DBA United Express,08:10 AM,01:42 PM,1405
+CAR,American,06:44 AM,10:05 AM,836
+CAR,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,04:55 PM,855
+CAR,"DeltaOperated by Endeavor Air DBA Delta Connection, Endeavor Air DBA Delta Connection",05:47 AM,11:06 AM,870
+CAR,DeltaOperated by Endeavor Air DBA Delta Connection,07:00 AM,12:23 PM,870
+CAR,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,08:39 PM,900
+CAR,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:00 AM,10:41 AM,1119
+CAR,AmericanOperated by PSA Airlines as American Eagle,10:53 AM,02:14 PM,1214
+NO,Delta,06:15 AM,01:24 PM,656
+NO,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:41 PM,706
+NO,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,11:37 PM,746
+NO,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,10:21 AM,896
+NO,United,06:16 AM,03:03 PM,787
+NO,DeltaOperated by Endeavor Air DBA Delta Connection,10:40 AM,04:23 PM,896
+NO,American,04:05 PM,10:48 PM,967
+NO,American,04:05 PM,09:10 PM,1057
+NO,Delta,11:17 AM,04:49 PM,1076
+NO,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:00 AM,09:45 AM,1503
+TB,UnitedOperated by Republic Airways DBA United Express,05:00 AM,11:33 AM,679
+TB,American,06:44 AM,01:08 PM,756
+TB,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,04:36 PM,756
+TB,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,11:10 AM,1074
+TB,United,06:10 AM,03:14 PM,666
+TB,United,06:16 AM,01:55 PM,679
+TB,UnitedOperated by Republic Airways DBA United Express,08:10 AM,03:14 PM,742
+TB,AmericanOperated by PSA Airlines as American Eagle,10:53 AM,04:51 PM,836
+TB,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,12:11 AM +1,836
+TB,UnitedOperated by Republic Airways DBA United Express,03:55 PM,10:00 PM,845
+TB,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,10:53 PM,984
+TB,Delta,07:00 AM,01:04 PM,1074
+TB,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,12:23 AM +1,1074
+NYG,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,07:57 PM,1313
+NYG,"DeltaOperated by Republic Airways Delta Connection, Endeavor Air DBA Delta Connection",05:04 PM,10:45 PM,1336
+NYG,DeltaOperated by Endeavor Air DBA Delta Connection,07:00 AM,12:05 PM,1534
+NYG,American,06:44 AM,08:00 PM,1118
+NYG,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:49 PM,1436
+NYG,AmericanOperated by PSA Airlines as American Eagle,10:53 AM,06:08 PM,1493
+NYG,"DeltaOperated by Endeavor Air DBA Delta Connection, Endeavor Air DBA Delta Connection",10:40 AM,06:00 PM,1534
+NYG,DeltaOperated by SkyWest DBA Delta Connection,10:55 AM,04:55 PM,1596
+DAL,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,09:40 PM,835
+DAL,UnitedOperated by Republic Airways DBA United Express,05:23 PM,10:44 PM,906
+DAL,Delta,07:00 AM,02:44 PM,952
+DAL,American,06:21 AM,09:04 AM,1302
+DAL,American,04:05 PM,06:45 PM,1302
+DAL,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,12:22 AM +1,1144
+DAL,DeltaOperated by Endeavor Air DBA Delta Connection,05:47 AM,11:16 AM,1204
+DAL,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,03:55 PM,1321
+DAL,American,11:20 AM,02:00 PM,2426
+WAS,AmericanOperated by Piedmont Airlines as American Eagle,10:25 AM,04:29 PM,1297
+WAS,AmericanOperated by Envoy Air as American Eagle,01:04 PM,04:08 PM,1618
+WAS,Delta,07:00 AM,11:36 AM,1637
+WAS,"UnitedOperated by Republic Airways DBA United Express, Gojet Airlines DBA United Express",05:23 PM,08:23 AM +1,1222
+WAS,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,10:30 PM,1297
+WAS,American,04:05 PM,12:21 AM +1,1377
+WAS,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:57 PM,1377
+WAS,AmericanOperated by PSA Airlines as American Eagle,10:53 AM,05:59 PM,1495
+WAS,DeltaOperated by Endeavor Air DBA Delta Connection,05:59 PM,11:40 PM,1517
+WAS,"UnitedOperated by Republic Airways DBA United Express, Republic Airways DBA United Express",05:23 PM,10:47 PM,1643
+PHI,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,08:42 PM,973
+PHI,AmericanOperated by Piedmont Airlines as American Eagle,04:55 PM,08:04 PM,1014
+PHI,DeltaOperated by SkyWest DBA Delta Connection,07:00 AM,12:02 PM,1028
+PHI,UnitedOperated by Republic Airways DBA United Express,08:10 AM,02:19 PM,992
+PHI,AmericanOperated by PSA Airlines as American Eagle,05:18 PM,12:48 AM +1,1013
+PHI,DeltaOperated by Endeavor Air DBA Delta Connection,05:06 PM,11:29 PM,1028
+PHI,UnitedOperated by Republic Airways DBA United Express,03:55 PM,09:40 PM,1228
+PHI,AmericanOperated by Piedmont Airlines as American Eagle,02:54 PM,07:56 PM,1281
