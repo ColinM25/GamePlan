@@ -1,4 +1,4 @@
-Team,Airline,Departure Time (Outbound),Arrival Time (Outbound),Price
+Team,Airline,Departure_Time,Arrival_Time,Price
 MIN,UnitedOperated by Republic Airways DBA United Express,09:00 AM,10:40 AM,639
 MIN,DeltaOperated by SkyWest DBA Delta Connection,12:35 PM,02:11 PM,639
 MIN,AmericanOperated by Republic Airways as American Eagle,12:40 PM,02:20 PM,639

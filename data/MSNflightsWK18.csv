@@ -1,4 +1,4 @@
-Team,Flight,Price,Departure Time,Arrival Time
+Team,Flight,Price,Departure_Time,Arrival_Time
 MIN,Delta,06:15 AM,07:25 AM,898
 MIN,DeltaOperated by SkyWest DBA Delta Connection,10:55 AM,12:11 PM,898
 MIN,DeltaOperated by SkyWest DBA Delta Connection,02:40 PM,03:58 PM,898
