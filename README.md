@@ -6,21 +6,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Data Collection](#data-collection)
-6. [Database Management & Analysis](#database-management--analysis)
-7. [Mathematical Model](#mathematical-model)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
-
----
-
 ## Introduction
 
 Game Plan is a comprehensive tool designed to help sports enthusiasts find the optimal game to attend on the road by analyzing travel and ticket costs. By leveraging web scraping, database management, and mathematical optimization, Game Plan identifies the most cost-effective travel plans for attending sports events.
