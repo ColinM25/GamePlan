@@ -1,9 +1,6 @@
-# GamePlan
-
-*Optimizing Travel for Sports Fans*
-
-**Created by Colin Macy**
-
+# **Game Plan**  
+### *For the Perfect Game at the Perfect Price*  
+#### Author: Colin Macy 
 ---
 
 ## Introduction
