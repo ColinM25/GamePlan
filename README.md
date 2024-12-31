@@ -21,9 +21,15 @@ Game Plan is a comprehensive tool designed to help sports enthusiasts find the o
 
     - You can run the [ticket data](./ticket_data.ipynb) notebook to collect ticket price data. Currently, ticket websites restrict traffic to prevent bots from sniping ticket data, so each ticket price is manually added for each game by modifying and running `top_prices_data`.
 
-- **Database Management**: Creates a database and adds all 3 sets of data for analysis of host city prices using SQL.
-- **Cost Analysis**: Analyzes data to identify the most affordable cities and travel options.
-- **Optimization Model**: Utilizes Julia to determine the optimal game to attend based on cost, flights, ticket prices, etc.
+- **Database Management**: 
+    - Creates a [database](./nfl_data.db) 
+    - Adds all 3 sets of data ([flight](ORDflightsWK18.csv), [hotel](hotelsWK18.csv), [ticket](ticket_prices.csv)) for analysis of host city prices using SQL.
+
+- **Cost Analysis**
+    - Analyzes [data](./sql_querying.ipynb) to identify the most affordable cities and travel options.
+
+- **Optimization Model**: 
+    - Utilizes Julia to find the [optimal](./optimizer.jl) game to attend based on cost, flights, ticket prices, etc.
 
 ## Installation
 
