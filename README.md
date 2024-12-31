@@ -38,3 +38,9 @@ To set up the Game Plan project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ColinM25/GamePlan.git
+
+## Future Implementation
+
+Ultimately, the goal of GamePlan would be to search and optimize the cheapest weekend to attend a road game within a season for your specified sports team. Many sports enthusiasts look to travel and see their team on the road, and hopefully this tool with allow people to find budget-friendly destinations before the season begins. We can hopefully implement additional constraints and trade-off analysis that can balance budget-friendly with high stakes matchups. 
+
+Want to see the Badgers play on the road? Run the optimizer and find the best game for you based on your budget and quality of matchup preference. 
