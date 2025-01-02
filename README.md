@@ -32,7 +32,7 @@ To set up the Game Plan project locally, follow these steps:
    ```bash
    git clone https://github.com/ColinM25/GamePlan.git
 
-2. **Create Virtual Environment and Install Dependencies**:
+2. **Create Virtual Environment**:
    ```bash
    python -m venv venv
    ```
@@ -45,7 +45,7 @@ To set up the Game Plan project locally, follow these steps:
       ```bash
       source venv/bin/activate
       ```
-
+3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
 
