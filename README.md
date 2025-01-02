@@ -35,3 +35,18 @@ To set up the Game Plan project locally, follow these steps:
 2. **Create Virtual Environment and Install Dependencies**:
    ```bash
    python -m venv venv
+   ```
+
+   - On Windows:
+      ```bash
+      .\venv\Scripts\activate
+      ```
+    - On macOS/Linux:
+      ```bash
+      source venv/bin/activate
+      ```
+
+   ```bash
+   pip install -r requirements.txt
+
+
