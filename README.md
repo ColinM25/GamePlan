@@ -31,3 +31,7 @@ To set up the Game Plan project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ColinM25/GamePlan.git
+
+2. **Create Virtual Environment and Install Dependencies**:
+   ```bash
+   python -m venv venv
