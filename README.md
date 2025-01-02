@@ -48,5 +48,4 @@ To set up the Game Plan project locally, follow these steps:
 3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
-
-
+   ```
