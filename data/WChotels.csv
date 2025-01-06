@@ -1,0 +1,129 @@
+Team,Name,Price,Rating,Room_Type
+BUF,Garden Place Hotel,288,7.5,2 queen beds
+BUF,"Holiday Inn Express & Suites Buffalo Downtown, an IHG Hotel",517,7.8,1 king bed
+BUF,Hampton Inn & Suites Buffalo/Downtown,745,8.0,2 queen beds
+BUF,Residence Inn by Marriott Buffalo Downtown,1328,8.3,"Private suite3 beds (1 sofa bed, 2 queens)"
+BUF,Best Western On The Avenue,648,8.2,2 queen beds
+BUF,Comfort Inn & Suites Buffalo Airport,398,7.8,2 queen beds
+BUF,Wyndham Garden Buffalo Downtown,597,8.3,2 queen beds
+BUF,"Staybridge Suites Buffalo, an IHG Hotel",882,8.5,"Private suite2 beds (1 sofa bed, 1 queen)"
+BUF,Best Western Buffalo Inn & Suites,361,8.3,1 queen bed
+TB,The Barrymore Hotel Tampa Riverwalk,421,7.8,2 queen beds
+TB,Home2 Suites By Hilton Tampa Downtown Channel District,472,8.9,1 queen bed
+TB,Courtyard by Marriott Tampa Northwest/Veterans Expressway,363,8.9,1 queen bed
+TB,"Home2 Suites By Hilton Tampa Westshore Airport, Fl",495,8.6,2 queen beds
+TB,Embassy Suites by Hilton Tampa Airport Westshore,455,7.8,"Private suite•2 bedrooms•1 living room•710 ft²3 beds (1 sofa bed, 2 queens)"
+TB,DoubleTree by Hilton Tampa Rocky Point Waterfront,466,7.8,2 queen beds
+TB,Hampton Inn Tampa Downtown Channel District,520,9.0,2 queen beds
+TB,Hampton Inn & Suites Tampa Ybor City Downtown,458,8.5,2 queen beds
+TB,Fairfield Inn and Suites by Marriott Tampa North,336,7.8,1 queen bed
+TB,Ramada by Wyndham Temple Terrace/Tampa North,268,7.2,1 queen bed
+TB,"Holiday Inn Express & Suites - Tampa East - Ybor City, an IHG Hotel",385,8.8,2 queen beds
+TB,Hyatt House Tampa Downtown,598,8.7,2 queen beds
+TB,Hampton Inn & Suites Tampa Riverview Brandon,436,8.5,2 queen beds
+TB,SpringHill Suites Tampa North/Tampa Palms,380,8.6,Entire studio•1 bathroom•398 ft²2 queen beds
+TB,TownePlace Suites by Marriott Tampa Casino Area,474,8.7,2 queen beds
+TB,Four Points by Sheraton Suites Tampa Airport Westshore,529,8.1,"3 beds (1 sofa bed, 2 queens)"
+TB,Home2 Suites By Hilton Tampa USF Near Busch Gardens,495,8.8,2 queen beds
+TB,Comfort Suites Tampa - Brandon,385,7.5,"Private suite3 beds (1 sofa bed, 2 queens)"
+TB,Courtyard Tampa Downtown,593,7.9,2 queen beds
+TB,Hampton Inn & Suites Tampa Airport Avion Park Westshore,654,8.6,2 queen beds
+TB,Residence Inn Tampa Downtown,551,7.8,"Private suite2 beds (1 sofa bed, 1 queen)"
+TB,"Country Inn & Suites by Radisson, Tampa Airport North, FL",448,7.3,2 queen beds
+TB,TownePlace Suites Tampa Westshore/Airport,508,7.9,Entire studio•1 bathroom•1 kitchen•334 ft²1 queen bed
+TB,Hampton Inn & Suites by Hilton Tampa Busch Gardens Area,408,8.6,2 queen beds
+TB,Comfort Suites Tampa Airport North,453,8.1,"2 beds (1 sofa bed, 1 queen)"
+PHI,Hilton Garden Inn Philadelphia Center City,253,8.0,2 queen beds
+PHI,Motto by Hilton Philadelphia Rittenhouse Square,243,8.3,1 queen bed
+PHI,"Independence Park Hotel, Premier Collection",280,8.9,1 queen bed
+PHI,"Holiday Inn Express Philadelphia-Midtown, an IHG Hotel",338,8.2,2 queen beds
+PHI,"Holiday Inn Express Philadelphia Penn's Landing, an IHG Hotel",260,8.1,Entire studio•1 bathroom•301 ft²1 queen bed
+PHI,Sosuite at Independence Lofts - Callowhill,231,8.1,Entire apartment•1 bedroom•1 living room•1 bathroom•1 kitchen•398 ft²1 queen bed
+PHI,Sonesta Select Philadelphia Airport,270,7.9,2 queen beds
+PHI,Sonder The Witherspoon,290,8.4,"Entire apartment•1 bedroom•1 living room•1 bathroom•1 kitchen•560 ft²2 beds (1 sofa bed, 1 queen)"
+PHI,Hampton Inn Philadelphia Center City-Convention Center,290,7.6,2 queen beds
+PHI,The Arco powered by Sonder,217,8.0,1 queen bed
+PHI,Sosuite at French Quarters - Rittenhouse Square,276,7.9,Entire apartment•1 bedroom•1 living room•1 bathroom•1 kitchen•603 ft²1 queen bed
+PHI,Fairfield Inn Philadelphia Airport,219,7.7,2 queen beds
+PHI,Home2 Suites by Hilton Philadelphia Convention Center,308,7.7,1 queen bed
+PHI,Locale North Broad - Philadelphia,240,8.0,Entire apartment•1 bedroom•1 living room•1 bathroom•1 kitchen•420 ft²1 queen bed
+PHI,Morris House Hotel,318,9.3,1 queen bed
+PHI,Sosuite at West Lofts - West Philadelphia,263,7.4,Entire apartment•2 bedrooms•1 living room•2 bathrooms•1 kitchen•904 ft²2 queen beds
+PHI,Aloft Philadelphia Airport,277,7.7,2 queen beds
+PHI,Penn's View Hotel Philadelphia,348,8.7,1 queen bed
+PHI,Sheraton Philadelphia University City Hotel,368,7.9,2 queen beds
+PHI,Residence Inn by Marriott Philadelphia Center City,388,8.0,Entire studio•1 bathroom•1 kitchen•280 ft²1 queen bed
+PHI,Aloft Philadelphia Downtown,333,7.8,1 queen bed
+PHI,"Holiday Inn Philadelphia Arpt-Stadium Area, an IHG Hotel",438,7.3,2 queen beds
+PHI,Courtyard by Marriott Philadelphia City Avenue,291,7.6,2 queen beds
+PHI,Sheraton Philadelphia Downtown,471,8.1,1 queen bed
+PHI,Sosuite at The Vine - Old City,261,8.2,"Entire apartment•1 bedroom•1 living room•1 bathroom•1 kitchen•527 ft²2 beds (1 sofa bed, 1 queen)"
+HOU,Drury Inn & Suites Houston Galleria,210,8.9,2 queen beds
+HOU,Hampton Inn Houston Downtown,324,8.4,2 queen beds
+HOU,Comfort Inn & Suites,158,7.0,1 queen bed
+HOU,Home2 Suites by Hilton Houston Energy Corridor,257,8.6,2 queen beds
+HOU,"Holiday Inn - NW Houston Beltway 8, an IHG Hotel",179,8.1,2 queen beds
+HOU,Sonesta Essential Houston Energy Corridor,119,5.6,1 queen bed
+HOU,Sonesta Simply Suites Houston CityCentre I-10 West,134,7.9,1 queen bed
+HOU,"Holiday Inn Express & Suites Memorial – CityCentre, an IHG Hotel",220,8.7,Multiple bed types
+HOU,Best Western Plus Downtown Inn & Suites,298,8.8,2 queen beds
+HOU,Hilton Garden Inn Houston/Galleria Area,222,8.3,2 queen beds
+HOU,Days Inn & Suites by Wyndham Downtown/University of Houston,151,7.5,2 queen beds
+HOU,"Holiday Inn Express and Suites Houston North - IAH Area, an IHG Hotel",174,8.1,2 queen beds
+HOU,Courtyard by Marriott Houston Galleria,217,8.1,2 queen beds
+HOU,Comfort Inn & Suites Houston I-45 North - IAH,138,6.4,2 queen beds
+HOU,"Holiday Inn Express & Suites - Houston Westchase - Westheimer, an IHG Hotel",228,7.9,Multiple bed types
+HOU,Best Western Galleria Inn & Suites,183,7.7,2 queen beds
+HOU,"Holiday Inn Express & Suites Houston S - Medical Ctr Area, an IHG Hotel",280,8.9,Multiple bed types
+HOU,Baymont by Wyndham Houston/Westchase,150,7.0,"3 beds (1 sofa bed, 2 queens)"
+HOU,Residence Inn Houston by The Galleria,185,7.6,"2 beds (1 sofa bed, 1 queen)"
+HOU,"Hampton Inn Houston I-10 East, TX",194,8.6,2 queen beds
+HOU,Aloft Houston by the Galleria,270,7.3,2 queen beds
+HOU,Hilton Garden Inn Houston Energy Corridor,218,8.4,2 queen beds
+HOU,Hyatt Place Houston Galleria,318,8.2,"3 beds (1 sofa bed, 2 queens)"
+HOU,Hampton Inn and Suites Houston Heights I-10,258,8.7,2 queen beds
+HOU,Hilton Garden Inn Houston/Bush Intercontinental Airport,192,7.3,2 queen beds
+HOU,La Quinta by Wyndham Houston Energy Corridor,165,7.3,2 queen beds
+HOU,Hilton Houston Post Oak by the Galleria,338,7.9,Private suite2 queen beds
+BAL,"Candlewood Suites Baltimore - Inner Harbor, an IHG Hotel",198,7.7,Private suite1 king bed
+BAL,"The Inn at Henderson's Wharf, Ascend Hotel Collection",424,8.6,1 queen bed
+BAL,"Staybridge Suites Baltimore - Inner Harbor, an IHG Hotel",255,8.6,Private suite1 queen bed
+BAL,Tru By Hilton Baltimore Harbor East,261,8.6,2 queen beds
+BAL,La Quinta by Wyndham Baltimore N / White Marsh,202,6.7,1 queen bed
+BAL,Hampton Inn Baltimore Bayview Campus,295,8.5,2 queen beds
+BAL,Best Western Plus Hotel & Conference Center,285,7.4,2 queen beds
+BAL,"Hotel Brexton, Trademark Collection by Wyndham",231,7.1,1 queen bed
+BAL,Hampton Inn & Suites Baltimore/Woodlawn,273,8.2,2 queen beds
+BAL,Hyatt Place Baltimore Inner Harbor,388,7.8,"3 beds (1 sofa bed, 2 queens)"
+BAL,SpringHill Suites by Marriott Baltimore Downtown/Inner Harbor,329,8.0,"Private suite2 beds (1 sofa bed, 1 queen)"
+BAL,Courtyard Baltimore Downtown/McHenry Row,394,8.5,2 queen beds
+BAL,Days Inn by Wyndham Baltimore Inner Harbor,250,6.5,1 queen bed
+BAL,Fairfield Inn & Suites White Marsh,219,8.1,1 queen bed
+BAL,Comfort Inn & Suites Baltimore Inner Harbor,217,5.4,1 queen bed
+BAL,Residence Inn Baltimore White Marsh,288,8.1,Entire studio•1 bathroom•1 kitchen•463 ft²1 queen bed
+LAR,StaysPro - Hollywood Homes minutes to everything SPACIOUS AND FREE PARKING,375,8.7,"Entire studio•1 bathroom•1 kitchen•603 ft²2 beds (1 sofa bed, 1 queen)"
+LAR,Hilton Garden Inn Los Angeles / Hollywood,377,7.7,2 queen beds
+LAR,Fenix Hotel Hollywood,237,8.0,Entire studio•1 bathroom•237 ft²1 queen bed
+LAR,"Hampton Inn & Suites Los Angeles/Hollywood, CA",451,8.4,2 queen beds
+LAR,Bayside Hotel,387,8.0,1 queen bed
+LAR,Hotel Aventura,236,8.5,1 queen bed
+LAR,Hollywood Rooftop Boutique Residences on Melrose,411,101,"Entire studio•1 bathroom•1 kitchen•603 ft²2 beds (1 sofa bed, 1 queen)"
+LAR,"Holiday Inn Los Angeles - LAX Airport, an IHG Hotel",234,7.5,2 queen beds
+LAR,Hyatt House LAX Century Blvd,326,8.3,"Private suite•2 bedrooms•1 living room•1 bathroom•355 ft²3 beds (1 sofa bed, 2 queens)"
+LAR,Hampton Inn & Suites Santa Monica,474,7.7,2 queen beds
+LAR,Tuscan Garden Inn,212,7.5,2 queen beds
+LAR,Comfort Inn & Suites Near Universal - N Hollywood - Burbank,343,8.2,2 queen beds
+LAR,The Adler a Hollywood Hotel,288,8.2,2 queen beds
+LAR,Four Points by Sheraton Los Angeles International Airport,211,6.0,2 queen beds
+LAR,Ocean Park Inn,258,8.0,1 queen bed
+LAR,Best Western Plus Commerce Hotel,270,8.5,2 queen beds
+LAR,Hyatt Place LAX/Century BLVD,304,8.1,2 queen beds
+LAR,Hilton Los Angeles-Universal City,538,8.3,2 queen beds
+LAR,Hilton Garden Inn Los Angeles Marina Del Rey,445,7.6,2 queen beds • Free crib always available
+LAR,New Seoul Hotel,268,8.3,1 queen bed
+LAR,Best Western Hollywood Plaza Inn Hotel - Hollywood Walk of Fame LA,278,7.4,1 queen bed
+LAR,The Kinney - Venice Beach,412,8.3,2 queen beds
+LAR,Days Inn by Wyndham Santa Monica,328,7.9,1 queen bed
+LAR,Hollywood Inn Suites Hotel,183,7.9,Private suite2 queen beds
+LAR,The Live Hotel,280,7.6,2 queen beds
+LAR,Hyatt Regency Los Angeles International Airport,298,8.1,2 queen beds

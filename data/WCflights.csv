@@ -1,0 +1,84 @@
+Team,Airline,Departure_Time,Arrival_Time,Price
+BUF,United,06:30 PM,09:10 PM,1236
+BUF,DeltaOperated by SkyWest DBA Delta Connection,06:45 AM,11:28 AM,1239
+BUF,AmericanOperated by Envoy Air as American Eagle,05:45 PM,08:24 PM,1918
+BUF,Frontier,10:00 AM,12:02 AM +1,560
+BUF,AmericanOperated by Republic Airways as American Eagle,08:40 PM,11:23 AM +1,1138
+BUF,AmericanOperated by PSA Airlines as American Eagle,06:00 AM,11:57 AM,1239
+BUF,Delta,07:05 AM,01:07 PM,1239
+BUF,AmericanOperated by PSA Airlines as American Eagle,08:05 AM,02:23 PM,1239
+BUF,American,05:10 AM,11:07 AM,1393
+TB,Spirit,07:26 AM,11:11 AM,504
+TB,United,07:15 AM,11:09 AM,985
+TB,American,10:31 AM,02:12 PM,985
+TB,Spirit,05:11 AM,08:36 PM,925
+TB,United,11:26 AM,03:20 PM,985
+TB,United,02:10 PM,06:02 PM,985
+TB,American,05:35 PM,09:19 PM,985
+TB,United,06:03 PM,09:55 PM,985
+TB,JetBlue,07:00 AM,06:42 PM,997
+TB,American,08:12 AM,02:02 PM,1264
+TB,American,04:30 PM,10:00 PM,1264
+TB,Delta,05:45 AM,11:10 AM,1455
+TB,Delta,07:05 AM,12:30 PM,1455
+PHI,American,06:30 AM,09:31 AM,1448
+PHI,American,09:45 AM,12:49 PM,1448
+PHI,United,11:20 AM,02:24 PM,1448
+PHI,United,02:29 PM,05:35 PM,1448
+PHI,Spirit,02:02 PM,10:16 PM,894
+PHI,Spirit,12:25 PM,09:29 PM,994
+PHI,American,08:05 AM,05:54 PM,1336
+PHI,American,11:51 AM,02:55 PM,1448
+PHI,American,02:52 PM,05:55 PM,1448
+PHI,American,05:20 PM,08:19 PM,1448
+PHI,United,06:30 PM,09:40 PM,1448
+PHI,American,08:25 PM,11:32 PM,1448
+BAL,Southwest,07:00 AM,09:55 AM,1418
+BAL,AmericanOperated by Republic Airways as American Eagle,08:20 AM,11:17 AM,1418
+BAL,United,10:50 AM,01:51 PM,1418
+BAL,Frontier,10:59 AM,06:20 PM,940
+BAL,"AmericanOperated by Air Wisconsin as American Eagle, Piedmont Airlines as American Eagle",08:30 AM,12:18 AM +1,1385
+BAL,"AmericanOperated by Air Wisconsin as American Eagle, PSA Airlines as American Eagle",08:30 AM,12:18 AM +1,1385
+BAL,Spirit,12:25 PM,07:59 PM,1402
+BAL,Southwest,04:35 PM,07:30 PM,1418
+BAL,United,05:50 PM,08:48 PM,1418
+BAL,AmericanOperated by Republic Airways as American Eagle,06:00 PM,09:03 PM,1418
+BAL,Southwest,11:25 AM,05:45 PM,1438
+HOU,Spirit,10:34 AM,01:33 PM,456
+HOU,Spirit,04:27 PM,07:23 PM,456
+HOU,Frontier,06:10 AM,09:00 AM,594
+HOU,Spirit,12:25 PM,12:15 AM +1,537
+HOU,United,05:45 AM,08:44 AM,1135
+HOU,United,07:35 AM,10:38 AM,1135
+HOU,United,08:50 AM,11:53 AM,1135
+HOU,United,10:35 AM,01:38 PM,1135
+HOU,United,12:45 PM,03:47 PM,1135
+HOU,United,02:02 PM,05:04 PM,1135
+HOU,United,03:40 PM,06:43 PM,1135
+HOU,United,05:50 PM,08:50 PM,1135
+HOU,United,08:29 PM,11:30 PM,1135
+HOU,AmericanOperated by Republic Airways as American Eagle,08:30 PM,11:32 PM,1135
+HOU,United,09:05 PM,12:06 AM +1,1135
+HOU,AmericanOperated by Republic Airways as American Eagle,09:50 AM,12:44 PM,1465
+HOU,AmericanOperated by Envoy Air as American Eagle,01:32 PM,04:30 PM,1465
+HOU,American,06:45 PM,11:17 PM,1674
+LAR,Spirit,11:12 AM,01:51 PM,749
+LAR,Spirit,09:18 PM,11:59 PM,749
+LAR,American,08:40 AM,11:18 AM,1384
+LAR,United,08:55 AM,11:25 AM,1384
+LAR,Frontier,07:25 AM,12:32 AM +1,621
+LAR,Frontier,06:36 PM,07:33 AM +1,621
+LAR,Frontier,09:01 PM,08:26 AM +1,621
+LAR,United,06:30 AM,04:51 PM,1186
+LAR,United,07:15 AM,09:55 AM,1384
+LAR,American,07:18 AM,09:54 AM,1384
+LAR,American,09:45 AM,12:26 PM,1384
+LAR,United,10:49 AM,01:29 PM,1384
+LAR,United,12:55 PM,03:29 PM,1384
+LAR,American,02:14 PM,04:52 PM,1384
+LAR,American,03:20 PM,05:53 PM,1384
+LAR,United,03:35 PM,06:14 PM,1384
+LAR,American,05:40 PM,08:15 PM,1384
+LAR,United,06:11 PM,08:48 PM,1384
+LAR,United,08:15 PM,10:58 PM,1384
+LAR,American,08:25 PM,10:59 PM,1384
