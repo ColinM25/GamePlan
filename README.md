@@ -22,7 +22,7 @@ For a more detailed overview and demonstration of the tool’s functionality, vi
     - The [SQL querying](./sql_querying.ipynb) process helps identify the most affordable cities and travel options based on collected data.
 
 - **Optimization Model**:
-    - The tool uses a [Julia-based optimizer](./optimizer.jl) to find the optimal game to attend based on cost factors such as flights, ticket prices, and hotel expenses.
+    - The tool uses an [Optimizer](./optimize.jl) in Julia using GLPK to find the optimal game to attend based on cost factors such as flights, ticket prices, and hotel expenses.
 
 ## Installation
 
