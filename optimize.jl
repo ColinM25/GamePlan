@@ -25,14 +25,13 @@ min_rating = 9.0
 min_tier = 1
 selected_team = nothing
 
-# Initialize the model
 model = Model(GLPK.Optimizer)
 
-# Add binary variables for each team
+# variable for each team
 @variable(model, y_team[1:length(teams)], Bin)
 @constraint(model, sum(y_team[t] for t in 1:length(teams)) == 1)
 
-# if you want a specific team to attend
+# if you want to attend a specific game
 if selected_team != "" && selected_team != nothing
     @constraint(model, y_team[findfirst(==(selected_team), teams)] == 1)
 end
@@ -42,11 +41,12 @@ end
 @variable(model, x_h[1:size(hotels, 1)], Bin)
 @variable(model, x_t[1:size(tickets, 1)], Bin)
 
+# ensures only selecting flight,hotel,tickets if the team is selected (y_team)
 @constraint(model, [i in 1:size(flights, 1)], x_f[i] <= y_team[findfirst(==(flights.Team[i]), teams)])
 @constraint(model, [j in 1:size(hotels, 1)], x_h[j] <= y_team[findfirst(==(hotels.Team[j]), teams)])
 @constraint(model, [k in 1:size(tickets, 1)], x_t[k] <= y_team[findfirst(==(tickets.Team[k]), teams)])
 
-# objective
+# objective (minimize travel cost)
 @objective(model, Min, 
     sum(flights.Price[i] * x_f[i] for i in 1:size(flights, 1)) +
     (1 / num_travelers) * sum(hotels.Price[j] * x_h[j] for j in 1:size(hotels, 1)) +
